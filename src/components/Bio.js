@@ -12,13 +12,13 @@ import BioPicture from './BioPicture';
 // TODO: finish portfolio page!
 const BioText = (
   <p>
-    Hi, I'm <strong>Chris Frewin</strong>, I spend far too much time working on a Magento project and wasting time on ideas that burn me out and which I ultimately abandon!<sup><sup><sup>hmmmm, this guy is super salty...</sup></sup></sup>
+    Hi, I'm <strong>Chris Frewin</strong>, I'm going to be COURSE MASTER for 2020 (I hope)!<sup><sup><sup>please help me</sup></sup></sup>
     <br/>
     <br/>
     I'm an ex-mechanical engineer gone full-remote, full-stack application software engineer, and a hobbyist machine learning/natural language processing developer.{' '}
     <br/>
     <br/>
-    If I'm not building software, I'll be found hiking, skiing, losing money trading options, spoiling homebrew, or creating music and art. I (mostly) live in Austria.
+    If I'm not building software, I'll be found hiking, skiing, taking pictures, spoiling homebrew, or creating music and art. I (mostly) live in Austria.
     <br/>
     <br/>
     <a href="https://instagram.com/_chrisfrewin_">
@@ -42,7 +42,8 @@ const BioText = (
     <a href="https://seelengeflüster-tirol.com" target="_blank" rel="noopener noreferrer">seelengeflüster-tirol.com</a><br/>
     <a href="https://wallstreetbetswally.github.io" target="_blank" rel="noopener noreferrer">wallstreetbetswally.github.io</a><br/>
     <a href="https://chrisfrew.in/invaders" target="_blank" rel="noopener noreferrer">chrisfrew.in/invaders</a><br/>
-    <a href="https://chrisfrew.in/portfolio" target="_blank" rel="noopener noreferrer">chrisfrew.in/portfolio</a>
+    <a href="https://chrisfrew.in/portfolio" target="_blank" rel="noopener noreferrer">chrisfrew.in/portfolio</a><br/>
+    <a href="https://risch-shoes.com" target="_blank" rel="noopener noreferrer">risch-shoes.com</a>
     <br/>
     <br/>
     <br/>

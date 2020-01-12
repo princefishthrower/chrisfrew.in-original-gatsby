@@ -96,6 +96,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "goals-for-2020-ef2",
+        "path": "/goals-for-2020/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "hello-world-8bc",
         "path": "/hello-world/"
     },
