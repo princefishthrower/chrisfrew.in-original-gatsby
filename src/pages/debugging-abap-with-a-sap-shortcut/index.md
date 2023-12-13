@@ -1,5 +1,6 @@
 ---
 title: Debugging ABAP Code with a SAP Shortcut - A Must-Have Tool!
+description:
 date: "2017-12-27"
 draft: false
 starID: 9

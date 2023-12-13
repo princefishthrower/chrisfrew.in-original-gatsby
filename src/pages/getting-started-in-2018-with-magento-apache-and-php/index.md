@@ -1,5 +1,6 @@
 ---
 title: Run an Existing Magento 2 App with Homebrew Apache on MacOS in 2018 / 2019
+description: 
 date: "2018-11-19"
 draft: false
 starID: 32

@@ -1,5 +1,6 @@
 ---
 title: More Thoughts On Early Retirement, Financial Independence, and Making a Living That's Worth Living
+description:
 date: "2018-10-11"
 draft: false
 starID: 27

@@ -1,5 +1,6 @@
 ---
 title: Welp, I Did It. I'm Still a Freelancer.
+description:
 date: "2019-07-25"
 draft: false
 starID: 24

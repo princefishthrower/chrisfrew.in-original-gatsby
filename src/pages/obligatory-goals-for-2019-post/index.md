@@ -1,5 +1,6 @@
 ---
 title: Obligatory 'Goals for 2019' Post
+description:
 date: "2019-01-03"
 draft: false
 starID: 105

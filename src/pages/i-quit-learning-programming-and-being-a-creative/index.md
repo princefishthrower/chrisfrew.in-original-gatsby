@@ -1,5 +1,6 @@
 ---
 title: I quit Learning, Writing, and Being a Creative.
+description: 
 date: "2019-04-01"
 draft: false
 starID: 501

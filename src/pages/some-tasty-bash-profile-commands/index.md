@@ -1,5 +1,6 @@
 ---
 title: Some Tasty Bash Profile / Bashrc Commands To Make Your Life Better
+description:
 date: "2018-04-09"
 draft: false
 starID: 16

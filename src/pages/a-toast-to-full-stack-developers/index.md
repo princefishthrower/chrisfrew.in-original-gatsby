@@ -1,5 +1,6 @@
 ---
 title: A Toast to Full Stack Developers
+description:
 date: "2017-12-12"
 draft: false
 starID: 2

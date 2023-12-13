@@ -1,5 +1,6 @@
 ---
 title: Oh The Horror! The Dreaded "WebpackError ReferenceError window is not defined"!
+description: 
 date: "2018-12-08"
 draft: false
 starID: 101

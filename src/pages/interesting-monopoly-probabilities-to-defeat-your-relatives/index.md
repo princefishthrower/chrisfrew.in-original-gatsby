@@ -1,5 +1,6 @@
 ---
 title: Interesting Monopoly Probabilities (To Defeat your Relatives For the Holidays!)
+description: 
 date: "2018-12-29"
 draft: false
 starID: 103

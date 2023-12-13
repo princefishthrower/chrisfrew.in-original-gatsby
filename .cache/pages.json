@@ -21,6 +21,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "abap-push-and-message-channels-6f8",
+        "path": "/abap-push-and-message-channels/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "an-npm-christmas-easter-egg-58e",
         "path": "/an-npm-christmas-easter-egg/"
     },
@@ -46,6 +51,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "data-challenge-analysis-of-reddit-users-89e",
+        "path": "/data-challenge-analysis-of-reddit-users/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "data-challenge-rendering-all-32767-invaders-bff",
         "path": "/data-challenge-rendering-all-32767-invaders/"
     },
@@ -53,6 +63,21 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "debugging-abap-with-a-sap-shortcut-787",
         "path": "/debugging-abap-with-a-sap-shortcut/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "detailed-look-at-bdc-in-abap-425",
+        "path": "/detailed-look-at-bdc-in-abap/"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "jsonName": "dev-404-page-5f9",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "donations-d97",
+        "path": "/donations/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -68,6 +93,16 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "final-say-bitcoin-5ff",
         "path": "/final-say-bitcoin/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "full-abap-push-and-message-channel-tutorial-with-working-code-examples-c35",
+        "path": "/full-abap-push-and-message-channel-tutorial-with-working-code-examples/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "full-abap-push-and-message-channel-tutorial-with-working-code-cab",
+        "path": "/full-abap-push-and-message-channel-tutorial-with-working-code/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -146,6 +181,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "jump-from-sapui-5-to-transactions-in-web-gui-with-batch-input-9ab",
+        "path": "/jump-from-SAPUI5-to-transactions-in-web-gui-with-batch-input/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "jump-to-web-gui-using-sapui-5-or-openui-5-191",
         "path": "/jump-to-web-gui-using-sapui5-or-openui5/"
     },
@@ -185,9 +225,9 @@
         "path": "/obligatory-goals-for-2019-post/"
     },
     {
-        "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
-        "jsonName": "offline-plugin-app-shell-fallback-a30",
-        "path": "/offline-plugin-app-shell-fallback/"
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "one-major-challenge-with-the-internet-and-society-9ec",
+        "path": "/one-major-challenge-with-the-internet-and-society/"
     },
     {
         "componentChunkName": "component---src-pages-privacy-policy-index-js",
@@ -226,6 +266,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "that-was-it-the-first-week-of-the-rest-of-my-life-d5e",
+        "path": "/that-was-it-the-first-week-of-the-rest-of-my-life/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "the-dreaded-referenceerror-window-is-not-defined-88d",
         "path": "/the-dreaded-referenceerror-window-is-not-defined/"
     },
@@ -233,6 +278,21 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "the-social-contract-7bf",
         "path": "/the-social-contract/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "the-software-engineers-social-contract-c00",
+        "path": "/the-software-engineers-social-contract/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "towards-code-and-folder-organization-of-nodejs-server-applications-ced",
+        "path": "/towards-code-and-folder-organization-of-nodejs-server-applications/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "using-a-fluent-interface-to-ease-the-pain-of-soap-calls-a20",
+        "path": "/using-a-fluent-interface-to-ease-the-pain-of-soap-calls/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",

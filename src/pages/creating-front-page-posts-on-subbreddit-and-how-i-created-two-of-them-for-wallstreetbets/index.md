@@ -1,5 +1,6 @@
 ---
 title: How to Create Posts That Reach the Top of the Front Page on Subreddits (And How I Created Two of Them for /r/wallstreetbets)
+description:
 date: "2018-04-08"
 draft: false
 starID: 15

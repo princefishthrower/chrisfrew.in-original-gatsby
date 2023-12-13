@@ -1,5 +1,6 @@
 ---
 title: Hello World - My First Post :)
+description:
 date: "2017-12-12"
 draft: false
 starID: 1

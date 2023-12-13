@@ -1,5 +1,6 @@
 ---
 title: Welp, I Did It. I Quit.
+description:
 date: "2018-07-25"
 draft: false
 starID: 24

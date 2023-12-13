@@ -1,5 +1,6 @@
 ---
 title: Warn SAP Users of Locked Objects Then Kill Their Session
+description:
 date: "2018-05-09"
 draft: false
 starID: 18

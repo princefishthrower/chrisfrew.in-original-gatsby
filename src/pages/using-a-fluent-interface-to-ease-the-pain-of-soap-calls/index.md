@@ -1,5 +1,6 @@
 ---
 title: Using a Fluent Interface to Ease The Pain of SOAP Calls
+description:
 date: "2019-02-27"
 draft: true
 starID: 500

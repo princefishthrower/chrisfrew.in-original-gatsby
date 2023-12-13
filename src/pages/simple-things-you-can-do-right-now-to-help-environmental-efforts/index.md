@@ -1,5 +1,6 @@
 ---
 title: Simple Actions You Can Take Right Now to Improve the Environment and Combat Climate Change
+description:
 date: "2018-12-07"
 draft: false
 starID: 100

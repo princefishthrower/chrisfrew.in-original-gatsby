@@ -1,5 +1,6 @@
 ---
 title: NLP Champs is Dead, Long Live NLP Champs
+description:
 date: "2019-10-18"
 draft: false
 starID: 1234

@@ -1,5 +1,6 @@
 ---
 title: Jump to Web GUI Using SAPUI5 Or OpenUI5
+description:
 date: "2018-11-23"
 draft: false
 starID: 33

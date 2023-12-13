@@ -1,5 +1,6 @@
 ---
 title: All Time Blog Donations Flowchart
+description:
 date: "2018-11-26"
 draft: true
 starID: 53

@@ -1,5 +1,6 @@
 ---
 title: A Single Bash Command To Simultaneously Run and Compile a CSharp (.cs) File
+description:
 date: "2019-12-05"
 draft: false
 starID: 12345

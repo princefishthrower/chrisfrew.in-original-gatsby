@@ -1,5 +1,6 @@
 ---
 title: The Internet, Subscriptions, Big Winners, the Networking Effect, Makers & Creators, and Society Today 
+description:
 date: "2018-10-19"
 draft: true
 starID: 55

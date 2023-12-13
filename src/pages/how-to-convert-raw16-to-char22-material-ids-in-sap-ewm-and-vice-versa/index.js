@@ -61,6 +61,7 @@ class Post extends React.Component {
 // front matter, javascript style
 export const frontmatter = {
   title: "How to Convert RAW16 to CHAR22 Material IDs in SAP EWM (and vice-versa)",
+  description: "How to Convert RAW16 to CHAR22 Material IDs in SAP EWM (and vice-versa)",
   date: "2018-09-09",
   draft: false,
   starID: 26,
